@@ -30,6 +30,7 @@ The GUI allows you to specify how many needles are randomly dropped onto a speci
 
 *<img width="595" height="528" alt="image" src="https://github.com/user-attachments/assets/bf10de07-2b22-4c0f-97ee-186b36be9719" />*
 
+## The more needles or squares dropped, the more accurately the value of PI is relflected 
 
-```markdown
-![Buffon's Needle GUI Screenshot](screenshot.png)
+*<img width="631" height="564" alt="image" src="https://github.com/user-attachments/assets/02adf830-1d26-4e58-8ad4-d4930d7c8d29" />*
+
